@@ -11,6 +11,7 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello K8s start CI/CD";
+        return "hello K8s startedg CI/CD";
     }
+
 }
